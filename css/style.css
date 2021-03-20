@@ -10,7 +10,7 @@ body {
   text-transform: uppercase;
 
   background-color: #000000;
-  background-image: url("img/index/bg.png");
+  background-image: url("../img/index/bg.png");
   background-position: top center;
   background-repeat: no-repeat;
 }
@@ -19,7 +19,7 @@ body {
   background-color: #000000;
 
 
-  background-image: url("img/price_list/bg.jpg");
+  background-image: url("../img/price_list/bg.jpg");
   background-position: 100%;
   background-repeat: repeat;
   color: #000000;
@@ -171,8 +171,8 @@ input[type="radio"].visually_hidden {
 
   background-color: #f8f5f2;
   background-image:
-    url("img/index/shadow.png"),
-    url("img/index/pattern_light.jpg");
+    url("../img/index/shadow.png"),
+    url("../img/index/pattern_light.jpg");
   background-position:center, 0 0;
   background-repeat: no-repeat, repeat;
 
@@ -338,7 +338,7 @@ input[type="radio"].visually_hidden {
  .main_footer {
    color: #ffffff;
    background-color: #000000;
-   background-image: url("img/index/pattern_dark.jpg");
+   background-image: url("../img/index/pattern_dark.jpg");
    background-position: 0 0;
    background-repeat: repeat;
  }
@@ -973,7 +973,7 @@ input[type="radio"].visually_hidden {
    width: 18px;
    height: 16px;
 
-   background-image: url("img/index/icon_login_1.svg");
+   background-image: url("../img/index/icon_login_1.svg");
    background-repeat: no-repeat;
    background-position:0 0;
 
@@ -1157,7 +1157,7 @@ input[type="radio"].visually_hidden {
   position: fixed;
   color: #000000;
   background-color: #f8f5f2;
-  background-image: url("img/index/pattern_light.jpg");
+  background-image: url("../img/index/pattern_light.jpg");
   background-position:center, 0 0;
   background-repeat: repeat;
   box-shadow: 0 30px 50px rgba(0,0,0,0.7);
@@ -1248,13 +1248,13 @@ input[type="radio"].visually_hidden {
 }
 
 .login_icon_user {
-  background-image:url("img/index/iconmonstr-user-1.svg");
+  background-image:url("../img/index/iconmonstr-user-1.svg");
   background-position: 270px center;
   background-repeat: no-repeat;
 }
 
 .login_icon_password {
-  background-image:url("img/index/iconmonstr-lock-3.svg");
+  background-image:url("../img/index/iconmonstr-lock-3.svg");
   background-position: 270px center;
   background-repeat: no-repeat;
 }
